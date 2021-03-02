@@ -7,6 +7,22 @@ Este script combinado con el explorador de Windows te permite que mediante una o
 
 # Funcionamiento
 
+El script a raiz de un directorio dado (directorio raiz), recorre todos sus subdirectorios, si existe un archivo cuya extensión sea:
+* .rar
+* .zip
+* .mp4
+* .mkv
+* .srt
+
+En mi caso son esos, editando el codigo puedes expresar los que te interesen, ya que esta todo comentado en el script.
+
+Mueve ese archivo al directorio raíz, si dicha acción no fuera posible, quizás la propiedad ```ReadOnly``` está activa por lo que se elimina. Posteriormente se borran los directorios, pero si tamaño del directorio es superior a 300MB no se borrará dado que interpretará que algún archivo no se movió satisfactoriamente.
+
+Una pequeña demostración:
+
+<p align="center"><img src="http://g.recordit.co/EFqpGmOTdc.gif"></p>
+
+Ante cualquier cambio en el código, eres libre de hacerlo.
 
 
 # Añadir al menú contextual y ejecutarlo con el explorador de Windows
