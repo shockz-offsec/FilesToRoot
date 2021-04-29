@@ -4,6 +4,7 @@ Este script combinado con el explorador de Windows te permite que mediante una o
 # Requisitos
 
 * [Python3](https://www.python.org/downloads/).
+* Tkinter Module
 
 # Funcionamiento
 
