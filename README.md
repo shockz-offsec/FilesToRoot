@@ -42,7 +42,3 @@ El resultado de los pasos anteriores deberia quedar tal que así:
 <p align="center"><img src = "https://i.ibb.co/NCGTzMC/filestoroot.png"></p>
 
 Estos cambios se realizan instantáneamente, así que tan pronto lo hagamos tendremos ya la opción disponible, clicando con el botón derecho en cualquier lugar a una carpeta.
-
-## Author ✒️
-
-* **Jorge Manuel Lozano Gómez**
